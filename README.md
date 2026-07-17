@@ -112,12 +112,9 @@ producing much stronger pruning than traditional repetition-based
 filters.
 
 # Software Architecture
+![Software Architecture](docs/diagram1.png)
 
-![](Pictures/100000010000029C000003552F2F3210.png){width="4.922in"
-height="6.2854in"}
 
-![](Pictures/10000001000002260000041C82CAFACA.png){width="4.8417in"
-height="9.261in"}
 
 ## Performance
 
