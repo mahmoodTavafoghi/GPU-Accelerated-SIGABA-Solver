@@ -120,8 +120,8 @@ filters.
 
 | Benchmark | Crib Length | Hardware | Runtime |
 |-----------|------------:|----------|---------|
-| JF Bouchaudy Problem 3 | 65 | 8 × RTX 3070 | 3 h 22 min |
-| JF Bouchaudy Problem 7 | 50 | 8 × RTX 3070 | 2 h 38 min |
+| [JF Bouchaudy Problem 3](http://jfbouch.fr/crypto/challenges/CSP-889/889_problem_03.html) | 100 | 8 × RTX 3070 | 3 h 22 min |
+| [JF Bouchaudy Problem 7](http://jfbouch.fr/crypto/challenges/CSP-889/889_problem_07.html) | 50 | 8 × RTX 3070 | 2 h 38 min |
 
 Additional internal benchmarks successfully recovered complete keys from
 cribs as short as **39 characters** using the same implementation.
