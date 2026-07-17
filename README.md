@@ -23,7 +23,7 @@ approximately seven months.
 SIGABA is widely regarded as one of the most secure rotor machines ever
 deployed.
 
-Its search space is enormous due to the interaction between
+Its search space is enormous (approximately 10²³ possible configurations), resulting from the interaction between
 
 - cipher rotors,
 - control rotors,
