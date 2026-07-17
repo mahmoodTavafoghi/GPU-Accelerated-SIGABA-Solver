@@ -128,7 +128,7 @@ cribs as short as **39 characters** using the same implementation.
 
 # References
 
-George Lasry et al.
+[George Lasry Article](https://www.tandfonline.com/doi/full/10.1080/01611194.2021.1989522#abstract)
 
 [Jean-François Bouchaudy
 Challenges](http://jfbouch.fr/crypto/challenges/CSP-889/index.html)
